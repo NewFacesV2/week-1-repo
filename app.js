@@ -1,3 +1,4 @@
-layout("Hello world")
-This is a bugfix
-
+layout ("Hello world")
+("this is a bugfix")
+("Hello there")
+("hello hello")
